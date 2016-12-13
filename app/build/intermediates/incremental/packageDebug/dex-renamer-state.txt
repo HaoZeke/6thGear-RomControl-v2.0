@@ -1,0 +1,7 @@
+#Tue Dec 13 07:22:54 IST 2016
+base.0=/run/media/haozeke/Storage/AndBuild/Tools/6thGear-RomControl-v2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_981fff9469bda3238f6121f40ed5a81ceb9e158b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/run/media/haozeke/Storage/AndBuild/Tools/6thGear-RomControl-v2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a622735e5ff5ec68f63da4692a0606393165bb9b/classes.dex
+base.1=/run/media/haozeke/Storage/AndBuild/Tools/6thGear-RomControl-v2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a622735e5ff5ec68f63da4692a0606393165bb9b
+file.0=/run/media/haozeke/Storage/AndBuild/Tools/6thGear-RomControl-v2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_981fff9469bda3238f6121f40ed5a81ceb9e158b/classes.dex

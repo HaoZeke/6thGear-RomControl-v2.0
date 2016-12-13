@@ -48,7 +48,7 @@
         <item>@drawable/icon_1</item>
     </array>
     <string-array name="about_team_names">
-        <item>Master Yoda - wise and talented lead developer</item>
+        <item>Rohit Goswami - Solo lead developer</item>
         <item>Luke Skywalker - one handed theme master</item>
         <item>Darth Vader - dark theme master</item>
     </string-array>
